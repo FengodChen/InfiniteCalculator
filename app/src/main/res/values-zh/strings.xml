@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="copy">复制</string>
+    <string name="app_name">无穷计算器</string>
+    <string name="app_introduction">这是一个可以计算天文数字的计算器</string>
+    <string name="app_developer">开发者：蓝城（酷安ID：Fengod）</string>
+    <string name="hint_source">请输入一个数字</string>
+    <string name="hint_answer">答案将会显示在这</string>
+    <string name="hint_setAccuracy">除法精度（默认为10）</string>
+    <string name="hint_successful">成功！</string>
+    <string name="hint_running">运行中</string>
+    <string name="hint_wait">请等待</string>
+    <string name="introduction">说明</string>
+    <string name="showHint">点击图标或文字以显示说明或开发者信息</string>
+    <string name="setAsSource">设为计算源</string>
+    <string name="copyDone">该答案已被复制至剪切板</string>
+    <string name="getDataError">获取数据失败！请试试重新安装</string>
+    <string name="errorOnZero">你老师没教你0不能做被除数吗？</string>
+    <string name="menu_setting">设置</string>
+    <string name="menu_about">关于</string>
+    <string name="menu_exit">退出</string>
+    <string name="label_setting">设置</string>
+    <string name="label_about">关于</string>
+    <string name="resultInAnotherActivity">在新窗口中显示结果</string>
+    <string name="exchange">交换</string>
+    <string name="hint_exponentNotInteger">抱歉, 目前应用程序只支持整数作为指数</string>
+    <string name="hint_notNatureNumber">对不起, 阶乘只支持自然数作为基</string>
+    <string name="errorOnArrangement">不符合排列方法</string>
+    <string name="errorOnCombination">不符合组合方法</string>
+</resources>

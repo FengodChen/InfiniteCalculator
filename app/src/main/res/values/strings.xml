@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Infinite Calculator</string>
+    <string name="app_introduction">This is a calculator which can calculate large number</string>
+    <string name="app_developer">Developer: Fengod Chen\n(Coolapk ID: Fengod)</string>
+
+    <string name="hint_source">Please input a number</string>
+    <string name="hint_answer">The answer would be shown there</string>
+    <string name="hint_setAccuracy">Accuracy of divide(default: 10)</string>
+    <string name="hint_successful">Successful!</string>
+    <string name="hint_running">Running</string>
+    <string name="hint_wait">Please Wait...</string>
+
+
+    <string name="showHint">Click Image or Words to show Introduction or Developer</string>
+    <string name="introduction">Introduction</string>
+
+    <string name="add" translatable="false">+</string>
+    <string name="minus" translatable="false">-</string>
+    <string name="multiply" translatable="false">*</string>
+    <string name="division" translatable="false">/</string>
+    <string name="power" translatable="false">^</string>
+    <string name="remainder" translatable="false">%</string>
+    <string name="factorial" translatable="false">!</string>
+    <string name="arrangement" translatable="false">A</string>
+    <string name="combination" translatable="false">C</string>
+
+    <string name="copy">Copy</string>
+    <string name="setAsSource">Set as source</string>
+    <string name="exchange">Exchange</string>
+
+    <string name="copyDone">The answer has been copied to clipboard</string>
+    <string name="getDataError">Get data error! Please try installing this application again</string>
+    <string name="errorOnZero">Your teacher didn\'t tell that ZERO can\'t be set as dividends?</string>
+    <string name="errorOnAnswer" translatable="false">ERROR</string>
+    <string name="hint_exponentNotInteger">Sorry, but the application is only support INTEGER as exponent</string>
+
+    <string name="menu_setting">Setting</string>
+    <string name="menu_about">About</string>
+    <string name="menu_exit">Exit</string>
+
+    <string name="label_setting">Setting</string>
+    <string name="label_about">About</string>
+    <string name="resultInAnotherActivity">Show result in new windows</string>
+    <string name="hint_notNatureNumber">Sorry, but factorial only support NATURE NUMBER as base</string>
+    <string name="errorOnArrangement">It does not meet arrangement method</string>
+    <string name="errorOnCombination">It does not meet combination method</string>
+</resources>

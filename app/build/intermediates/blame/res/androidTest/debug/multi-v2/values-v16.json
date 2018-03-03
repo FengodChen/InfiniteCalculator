@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/fengod/AndroidStudioProjects/InfiniteCalculator/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "/home/fengod/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/4812adba2eed9da0b13debe014e2b309/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "/home/fengod/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/f90b0fc14aac9f041fdb97dee22b64e9/res/values-v16/values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}
