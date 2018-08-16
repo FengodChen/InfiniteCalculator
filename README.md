@@ -1,16 +1,16 @@
 # InfiniteCalculator
 
-This is a calculator which can calculate large number
+### This is a calculator which can calculate large number
 
-It has support Chinese in new version (v2.0)
 
-I'll add more function sooner
 
-Tips:
+#### Tips:
 
 If you wanna clear all the number, just double click the Set as source Button
 
-Version Logs:
+
+
+#### Version Logs:
 
 Add Chinese support(v2.0)
 
